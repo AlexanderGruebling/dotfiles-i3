@@ -1,0 +1,16 @@
+*
+
+!.gitignore
+!README.md
+
+!i3/
+!alactritty/
+!dunst/
+!picom/
+!Screenshots/
+
+!i3/*
+!alacritty/*
+!dunst/*
+!picom/*
+!Screenshots/*
