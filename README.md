@@ -11,3 +11,5 @@ Dotfiles for my current i3 setup, working with the picom compositor for animatio
 * i3 >= 4.22
 * Picom
 * Alacritty
+* Rofi
+* ![rofi-bluetooth](https://github.com/Layerex/dmenu-bluetooth)
